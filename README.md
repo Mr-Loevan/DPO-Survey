@@ -227,6 +227,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 
 ## Citation
 If you find this work useful, welcome to cite us.
+
 ```bib
 @misc{xiao2024comprehensivesurveydirectpreference,
       title={A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications}, 
@@ -242,10 +243,4 @@ If you find this work useful, welcome to cite us.
 <!-- omit in toc -->
 ## ⭐ Star History
 
-<a href="https://star-history.com/#Mr-Loevan/DPO-Survey&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Mr-Loevan/DPO-Survey&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Mr-Loevan/DPO-Survey&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Mr-Loevan/DPO-Survey&type=Date" />
- </picture>
-</a>
+[![Star History Chart](https://api.star-history.com/svg?repos=DPO-Survey)](https://star-history.com/#Mr-Loevan/DPO-Survey&Date)
