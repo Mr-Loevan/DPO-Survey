@@ -15,7 +15,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 
 ## 📒 Table of Contents
 
-- [Research Questions and Variants](#research-questions-and-variants)
+- [Research Questions and Variants](#-research-questions-and-variants)
   - [RQ0: Why DPO?](#rq0-why-dpo)
   - [RQ1: Effect of Implicit Reward Modeling](#rq1-effect-of-implicit-reward-modeling)
   - [RQ2: Effect of Different Feedback](#rq2-effect-of-different-feedback)
@@ -23,10 +23,10 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   - [RQ4: Online DPO](#rq4-online-dpo)
   - [RQ5: Reward Hacking](#rq5-reward-hacking)
   - [RQ6: Alignment Tax](#rq6-alignment-tax)
-- [Datasets](#datasets)
+- [Datasets](#-datasets)
   - [Human Labeled Datasets](#human-labeled-datasets)
   - [AI Labeled Datasets](#ai-labeled-datasets)
-- [Applications](#applications)
+- [Applications](#-applications)
   - [Application on Large Language Models](#application-on-large-language-models)
     - [Application on Reasoning](#application-on-reasoning)
     - [Application on Instruction-Following](#application-on-instruction-following)
@@ -37,7 +37,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
     - [Multi-modal Generation](#multi-modal-generation)
   - [More Applications](#more-applications)
 
-## Research Questions and Variants
+## 📄 Research Questions and Variants
 ### RQ0: Why DPO?
 
   * Training language models to follow instructions with human feedback [[Paper]](https://arxiv.org/abs/2203.02155) 
@@ -116,7 +116,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 
 
 
-## Datasets
+## 📊 Datasets
 ### Human Labeled Datasets
 
   * Learning to summarize from human feedback [[Paper]](https://arxiv.org/abs/2009.01325)
@@ -150,7 +150,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 
 <br>
 
-## Applications
+## 🌐 Applications
 
 ### Application on Large Language Models
 
@@ -225,7 +225,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Finetuning Large Language Model for Personalized Ranking [[Paper]](https://arxiv.org/abs/2405.16127)
 
 
-## Citation
+## 📑 Citation
 If you find this work useful, welcome to cite us.
 
 ```bib
