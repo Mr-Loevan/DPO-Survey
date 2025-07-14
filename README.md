@@ -121,7 +121,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 
 ## 📊 Datasets
 ### Human Labeled Datasets
-
+![Human Labeled Datasets Example](figs/Human_Label.png)
   * Learning to summarize from human feedback [[Paper]](https://arxiv.org/abs/2009.01325)
   * WebGPT: Browser-assisted question-answering with human feedback [[Paper]](https://arxiv.org/abs/2112.09332)
   * HelpSteer: Multi-attribute Helpfulness Dataset for SteerLM [[Paper]](https://arxiv.org/abs/2311.09528)
@@ -138,7 +138,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Towards Harmless Multimodal Assistants with Blind Preference Optimization (Introduces MMSafe-PO) [[Paper]](https://arxiv.org/abs/2503.14189)
 
 ### AI Labeled Datasets
-
+![AI Labeled Datasets Example](figs/AI_label.png)
   * RLAIF-V: Aligning MLLMs through Open-Source AI Feedback for Super GPT-4V Trustworthiness [[Paper]](https://arxiv.org/abs/2405.17220)
   * Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs [[Paper]](https://arxiv.org/abs/2406.18629)
   * UltraFeedback: Boosting Language Models with High-quality Feedback [[Paper]](https://arxiv.org/abs/2310.01377)
