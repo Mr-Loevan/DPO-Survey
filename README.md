@@ -50,7 +50,8 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * A General Theoretical Paradigm to Understand Learning from Human Preferences [[Paper]](https://arxiv.org/abs/2310.12036) 
   * Generalizing Reward Modeling for Out-of-Distribution Preference Learning [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_7) 
   * Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs [[Paper]](https://arxiv.org/abs/2406.10216) 
-  * 3D-Properties: Identifying Challenges in DPO and Charting a Path Forward [[Paper]](https://openreview.net/forum?id=9Hxdixed7p) 
+  * 3D-Properties: Identifying Challenges in DPO and Charting a Path Forward [[Paper]](https://openreview.net/forum?id=9Hxdixed7p)
+  * Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF [[Paper]](https://openreview.net/forum?id=Z6UD1rDbul) 
 
 ### RQ2: Effect of Different Feedback
 
@@ -63,7 +64,8 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Self-Play Fine-Tuning Converts Weak Language Models to Strong Language Models [[Paper]](https://arxiv.org/abs/2401.01335) 
   * Contrastive Preference Optimization: Pushing the Boundaries of LLM Performance in Machine Translation [[Paper]](https://arxiv.org/abs/2401.08417) 
   * Iterative Reasoning Preference Optimization [[Paper]](https://arxiv.org/abs/2404.19733) 
-  * Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability [[Paper]](https://arxiv.org/abs/2411.19943) 
+  * Critical Tokens Matter: Token-Level Contrastive Estimation Enhence LLM's Reasoning Capability [[Paper]](https://arxiv.org/abs/2411.19943)
+  * Building Math Agents with Multi-Turn Iterative Preference Learning [[Paper]](https://arxiv.org/abs/2409.02392)
 
 ### RQ3: Effect of KL Penalty Coefficient and Reference Model
 
@@ -75,7 +77,8 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Towards Analyzing and Understanding the Limitations of DPO: A Theoretical Perspective [[Paper]](https://arxiv.org/abs/2404.04626) 
   * Is DPO Superior to PPO for LLM Alignment? A Comprehensive Study [[Paper]](https://arxiv.org/abs/2404.10719) 
   * Learn Your Reference Model for Real Good Alignment [[Paper]](https://openreview.net/forum?id=H0qIWXXLUR) 
-  * KL Penalty Control via Perturbation for Direct Preference Optimization [[Paper]](https://arxiv.org/abs/2502.13177) 
+  * KL Penalty Control via Perturbation for Direct Preference Optimization [[Paper]](https://arxiv.org/abs/2502.13177)
+  * Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF [[Paper]](https://openreview.net/forum?id=QYigQ6gXNw)
 
 ### RQ4: Online DPO
 
