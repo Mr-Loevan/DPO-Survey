@@ -123,13 +123,16 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * WebGPT: Browser-assisted question-answering with human feedback [[Paper]](https://arxiv.org/abs/2112.09332)
   * HelpSteer: Multi-attribute Helpfulness Dataset for SteerLM [[Paper]](https://arxiv.org/abs/2311.09528)
   * HelpSteer2: Open-source dataset for training top-performing reward models [[Paper]](https://arxiv.org/abs/2406.08673)
+  * HelpSteer3-Preference: Open Human-Annotated Preference Data across Diverse Tasks and Languages [[Paper]](https://arxiv.org/abs/2505.11475)
   * OpenAssistant Conversations -- Democratizing Large Language Model Alignment [[Paper]](https://arxiv.org/abs/2304.07327)
   * Understanding Dataset Difficulty with V-Usable Information (Introduces SHP) [[Paper]](https://proceedings.mlr.press/v162/ethayarajh22a.html)
   * tasksource: A Large Collection of NLP tasks (Introduces DPO-pairs) [[Paper]](https://aclanthology.org/2024.lrec-main.1361)
   * RLHF-V: Towards Trustworthy MLLMs via Behavior Alignment from Fine-Grained Correctional Human Feedback [[Paper]](https://www.google.com/search?q=https://openaccess.thecvf.com/content/CVPR2024/html/Yu_RLHF-V_Towards_Trustworthy_MLLMs_via_Behavior_Alignment_from_Fine-Grained_Correctional_CVPR_2024_paper.html)
   * Training a Helpful and Harmless Assistant with Reinforcement Learning from Human Feedback (Introduces HH-RLHF) [[Paper]](https://arxiv.org/abs/2204.05862)
+  * MM-RLHF: The Next Step Forward in Multimodal LLM Alignment [[Paper]](https://arxiv.org/abs/2502.10391)
   * Judging LLM-as-a-Judge with MT-Bench and Chatbot Arena [[Paper]](https://arxiv.org/abs/2306.05685)
   * AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback [[Paper]](https://arxiv.org/abs/2305.14387)
+  * Towards Harmless Multimodal Assistants with Blind Preference Optimization (Introduces MMSafe-PO) [[Paper]](https://arxiv.org/abs/2503.14189)
 
 ### AI Labeled Datasets
 
@@ -142,11 +145,17 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * TLDR Preference DPO [[Dataset]](https://www.google.com/search?q=https://huggingface.co/datasets/davanstrien/tldr-preference-dpo)
   * Zerolink ZSQL-Postgres DPO [[Dataset]](https://huggingface.co/datasets/zerolink/zsql-postgres-dpo)
   * RewardBench: Evaluating Reward Models for Language Modeling [[Paper]](https://arxiv.org/abs/2403.13787)
+  * RewardBench 2: Advancing Reward Model Evaluation [[Paper]](https://arxiv.org/abs/2506.01937)
+  * VL-RewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models [[Paper]](https://arxiv.org/abs/2411.17451)
   * Silkie: Preference Distillation for Large Visual Language Models (Introduces VLFeedback) [[Paper]](https://arxiv.org/abs/2312.10665)
   * SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model [[Paper]](https://arxiv.org/abs/2406.12030)
   * Stack Exchange Preferences Dataset [[Dataset]](https://huggingface.co/datasets/HuggingFaceH4/stack-exchange-preferences)
   * Starling-7B: Improving LLM Helpfulness & Harmlessness with RLAIF (Introduces Nectar) [[Blog Post]](https://www.google.com/search?q=https://lmsys.org/blog/2023-11-21-starling/)
   * SlimOrca: An Open Dataset of GPT-4 Augmented FLAN Reasoning Traces [[Dataset]](https://www.google.com/search?q=https://huggingface.co/Open-Orca/SlimOrca)
+  * CodeSteer: Symbolic-Augmented Language Models via Code/Text Guidance [[Paper]](https://arxiv.org/abs/2502.04350)
+  * Mask-DPO: Generalizable Fine-grained Factuality Alignment of LLMs (Introduces ANAH) [[Paper]](https://arxiv.org/abs/2503.02846)
+  * Unified Reward Model for Multimodal Understanding and Generation [[Paper]](https://arxiv.org/abs/2503.05236)
+  * MM-IFEngine: Towards Multimodal Instruction Following [[Paper]](https://arxiv.org/abs/2504.07957)
 
 <br>
 
