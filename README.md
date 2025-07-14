@@ -10,8 +10,6 @@
 
 Welcome to the repository for our survey paper, "A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications". This repository provides resources and updates related to our research. For a detailed introduction, please refer to [our survey paper](http://arxiv.org/abs/2410.15595).
 
-......(Images to be displayed)
-
 
 ## 📒 Table of Contents
 
@@ -39,22 +37,24 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 
 ## 📄 Research Questions and Variants
 ### RQ0: Why DPO?
-
+![RQ0](figs/RQ0.png)
   * Training language models to follow instructions with human feedback [[Paper]](https://arxiv.org/abs/2203.02155) 
-  * Direct Preference Optimization: Your Language Model is Secretly a Reward Model [[Paper]](https://arxiv.org/abs/2305.18290) 
+  * Direct Preference Optimization: Your Language Model is Secretly a Reward Model [[Paper]](https://arxiv.org/abs/2305.18290)
+  * Learning Dynamics of LLM Finetuning [[Paper]](https://arxiv.org/abs/2407.10490)
 
 ### RQ1: Effect of Implicit Reward Modeling
-
+![RQ1](figs/RQ1.png)
   * On the Limited Generalization Capability of the Implicit Reward Model Induced by Direct Preference Optimization [[Paper]](https://arxiv.org/abs/2409.03650) 
   * Policy Optimization in RLHF: The Impact of Out-of-preference Data [[Paper]](https://arxiv.org/abs/2312.10584) 
   * A General Theoretical Paradigm to Understand Learning from Human Preferences [[Paper]](https://arxiv.org/abs/2310.12036) 
   * Generalizing Reward Modeling for Out-of-Distribution Preference Learning [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-70362-1_7) 
   * Regularizing Hidden States Enables Learning Generalizable Reward Model for LLMs [[Paper]](https://arxiv.org/abs/2406.10216) 
   * 3D-Properties: Identifying Challenges in DPO and Charting a Path Forward [[Paper]](https://openreview.net/forum?id=9Hxdixed7p)
-  * Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF [[Paper]](https://openreview.net/forum?id=Z6UD1rDbul) 
+  * Value-Incentivized Preference Optimization: A Unified Approach to Online and Offline RLHF [[Paper]](https://openreview.net/forum?id=Z6UD1rDbul)
+  * Implicit Reward as the Bridge: A Unified View of SFT and DPO Connections [[Paper]](https://arxiv.org/abs/2507.00018) 
 
 ### RQ2: Effect of Different Feedback
-
+![RQ2](figs/RQ2.png)
   * RAFT: Reward rAnked FineTuning for Generative Foundation Model Alignment [[Paper]](https://arxiv.org/abs/2304.06767) 
   * RRHF: Rank Responses to Align Language Models with Human Feedback without tears [[Paper]](https://arxiv.org/abs/2304.05302) 
   * Advancing LLM Reasoning Generalists with Preference Trees [[Paper]](https://arxiv.org/abs/2404.02078) 
@@ -68,7 +68,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Building Math Agents with Multi-Turn Iterative Preference Learning [[Paper]](https://arxiv.org/abs/2409.02392)
 
 ### RQ3: Effect of KL Penalty Coefficient and Reference Model
-
+![RQ3](figs/RQ3.png)
   * β-DPO: Direct Preference Optimization with Dynamic β [[Paper]](https://arxiv.org/abs/2407.08639) 
   * Understanding Reference Policies in Direct Preference Optimization [[Paper]](https://arxiv.org/abs/2407.13709) 
   * From r to Q\*: Your Language Model is Secretly a Q-Function [[Paper]](https://arxiv.org/abs/2404.12358) 
@@ -81,7 +81,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Exploratory Preference Optimization: Harnessing Implicit Q*-Approximation for Sample-Efficient RLHF [[Paper]](https://openreview.net/forum?id=QYigQ6gXNw)
 
 ### RQ4: Online DPO
-
+![RQ4](figs/RQ4.png)
   * Self-Rewarding Language Models [[Paper]](https://arxiv.org/abs/2401.10020) 
   * Some things are more CRINGE than others: Iterative Preference Optimization with the Pairwise Cringe Loss [[Paper]](https://arxiv.org/abs/2312.16682) 
   * Direct Language Model Alignment from Online AI Feedback [[Paper]](https://arxiv.org/abs/2402.04792) 
@@ -94,7 +94,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Hybrid Preference Optimization for Alignment: Provably Faster Convergence Rates by Combining Offline Preferences with Online Exploration [[Paper]](https://openreview.net/forum?id=YBBXsVta2x) 
 
 ### RQ5: Reward Hacking
-
+![RQ5](figs/RQ5.png)
   * AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback [[Paper]](https://arxiv.org/abs/2305.14387) 
   * A Long Way to Go: Investigating Length Correlations in RLHF [[Paper]](https://arxiv.org/abs/2310.03716) 
   * Is Stack Overflow Obsolete? An Empirical Study of the Characteristics of ChatGPT Answers to Stack Overflow Questions [[Paper]](https://www.google.com/search?q=https://doi.org/10.1145/3613904.3642596) 
@@ -105,7 +105,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Sail into the Headwind: Alignment via Robust Rewards and Dynamic Labels against Reward Hacking [[Paper]](https://openreview.net/forum?id=I8af9JdQTy) 
 
 ### RQ6: Alignment Tax
-
+![RQ6](figs/RQ6.png)
   * Rethinking the Role of Proxy Rewards in Language Model Alignment [[Paper]](https://arxiv.org/abs/2402.03469) 
   * Online merging optimizers for boosting rewards and mitigating tax in alignment [[Paper]](https://arxiv.org/abs/2405.17931) 
   * SPO: Multi-Dimensional Preference Sequential Alignment With Implicit Reward Modeling [[Paper]](https://arxiv.org/abs/2405.12739) 
@@ -251,8 +251,3 @@ If you find this work useful, welcome to cite us.
       url={https://arxiv.org/abs/2410.15595}, 
 }
 ```
-
-<!-- omit in toc -->
-## ⭐ Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=DPO-Survey)](https://star-history.com/#Mr-Loevan/DPO-Survey&Date)
