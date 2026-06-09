@@ -4,6 +4,8 @@
 
 ## 📢 Updates
 
+- **2026.06**: Our survey paper is accepted by TPAMI 2026!
+
 - **2024.10**: We released a survey paper "[A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications](http://arxiv.org/abs/2410.15595)". Feel free to cite or open pull requests.
 
 ## 👀 Introduction
