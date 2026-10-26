@@ -182,6 +182,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Iterative Reasoning Preference Optimization [[Paper]](https://arxiv.org/abs/2404.19733) (2024.04)
   * Self-Training with Direct Preference Optimization Improves Chain-of-Thought Reasoning [[Paper]](https://arxiv.org/abs/2407.18248) (2024.07)
   * MAPO: Advancing Multilingual Reasoning through Multilingual-Alignment-as-Preference Optimization [[Paper]](https://aclanthology.org/2024.acl-long.539) (2024.08)
+  * Chunks as Arms: Multi-Armed Bandit-Guided Sampling for Long-Context LLM Preference Optimization [[Paper]](https://arxiv.org/abs/2508.13993) (2025.08)
 
 #### Application on Instruction-Following
 
