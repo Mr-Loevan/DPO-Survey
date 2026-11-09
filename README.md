@@ -238,6 +238,7 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
   * Exploring Text-to-Motion Generation with Human Preference [[Paper]](https://arxiv.org/abs/2404.09445) (2024.04)
   * On Softmax Direct Preference Optimization for Recommendation [[Paper]](https://arxiv.org/abs/2406.09215) (2024.06)
   * Finetuning Large Language Model for Personalized Ranking [[Paper]](https://arxiv.org/abs/2405.16127) (2024.05)
+  * ExpandR: Teaching Dense Retrievers Beyond Queries with LLM Guidance [[Paper]](https://arxiv.org/abs/2502.17057) (2025.02)
 
 
 ## 📑 Citation
