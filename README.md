@@ -244,13 +244,16 @@ Welcome to the repository for our survey paper, "A Comprehensive Survey of Direc
 ## 📑 Citation
 If you find this work useful, welcome to cite us.
 
-```bib
-@misc{xiao2024comprehensivesurveydirectpreference,
-      title={A Comprehensive Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications}, 
-      author={Wenyi Xiao and Zechuan Wang and Leilei Gan and Shuai Zhao and Wanggui He and Luu Anh Tuan and Long Chen and Hao Jiang and Zhou Zhao and Fei Wu},
-      year={2024},
-      eprint={2410.15595},
-      archivePrefix={arXiv},
-      primaryClass={cs.AI},
-      url={[https://arxiv.org/abs/2410.15595](https://arxiv.org/abs/2410.15595)}, 
+```bibtex
+@article{xiao2026survey,
+  title={A Survey of Direct Preference Optimization: Datasets, Theories, Variants, and Applications},
+  author={Xiao, Wenyi and Wang, Zechuan and Gan, Leilei and Zhao, Shuai and Li, Zongyue and Lei, Ruirui and He, Wanggui and Luu, Anh Tuan and Chan, Long and Jiang, Hao and Zhao, Zhou and Wu, Fei},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2026},
+  volume={48},
+  number={10},
+  pages={13079--13098},
+  doi={10.1109/TPAMI.2026.3704314},
+  url={https://doi.org/10.1109/TPAMI.2026.3704314}
 }
+```
